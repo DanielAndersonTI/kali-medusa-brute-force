@@ -94,4 +94,4 @@ PROGRAMA DE CONSCIENTIZAÇÃO: Treinamento obrigatório sobre segurança e polí
 
 ARQUITETURA ZERO TRUST: Implementar segmentação e acesso baseado em identidade na rede.
 
-POLÍTICAS DE SENHA (GPO): Implementar bloqueio automático de conta após 5 tentativas de login falhas.
+POLÍTICAS DE SENHA (GPO): Implementar bloqueio automático de conta após 5 tentativas de login falhas.clear
